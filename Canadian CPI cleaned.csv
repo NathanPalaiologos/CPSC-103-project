@@ -1,0 +1,1981 @@
+Products and product groups,time,cpi
+All-items,Jan-13,121.3
+All-items,Feb-13,122.7
+All-items,Mar-13,122.9
+All-items,Apr-13,122.7
+All-items,May-13,123
+All-items,Jun-13,123
+All-items,Jul-13,123.1
+All-items,Aug-13,123.1
+All-items,Sep-13,123.3
+All-items,Oct-13,123
+All-items,Nov-13,123
+All-items,Dec-13,122.7
+All-items,Jan-14,123.1
+All-items,Feb-14,124.1
+All-items,Mar-14,124.8
+All-items,Apr-14,125.2
+All-items,May-14,125.8
+All-items,Jun-14,125.9
+All-items,Jul-14,125.7
+All-items,Aug-14,125.7
+All-items,Sep-14,125.8
+All-items,Oct-14,125.9
+All-items,Nov-14,125.4
+All-items,Dec-14,124.5
+All-items,Jan-15,124.3
+All-items,Feb-15,125.4
+All-items,Mar-15,126.3
+All-items,Apr-15,126.2
+All-items,May-15,126.9
+All-items,Jun-15,127.2
+All-items,Jul-15,127.3
+All-items,Aug-15,127.3
+All-items,Sep-15,127.1
+All-items,Oct-15,127.2
+All-items,Nov-15,127.1
+All-items,Dec-15,126.5
+All-items,Jan-16,126.8
+All-items,Feb-16,127.1
+All-items,Mar-16,127.9
+All-items,Apr-16,128.3
+All-items,May-16,128.8
+All-items,Jun-16,129.1
+All-items,Jul-16,128.9
+All-items,Aug-16,128.7
+All-items,Sep-16,128.8
+All-items,Oct-16,129.1
+All-items,Nov-16,128.6
+All-items,Dec-16,128.4
+All-items,Jan-17,129.5
+All-items,Feb-17,129.7
+All-items,Mar-17,129.9
+All-items,Apr-17,130.4
+All-items,May-17,130.5
+All-items,Jun-17,130.4
+All-items,Jul-17,130.4
+All-items,Aug-17,130.5
+All-items,Sep-17,130.8
+All-items,Oct-17,130.9
+All-items,Nov-17,131.3
+All-items,Dec-17,130.8
+All-items,Jan-18,131.7
+All-items,Feb-18,132.5
+All-items,Mar-18,132.9
+All-items,Apr-18,133.3
+All-items,May-18,133.4
+All-items,Jun-18,133.6
+All-items,Jul-18,134.3
+All-items,Aug-18,134.2
+All-items,Sep-18,133.7
+All-items,Oct-18,134.1
+All-items,Nov-18,133.5
+All-items,Dec-18,133.4
+All-items,Jan-19,133.6
+All-items,Feb-19,134.5
+All-items,Mar-19,135.4
+All-items,Apr-19,136
+All-items,May-19,136.6
+All-items,Jun-19,136.3
+All-items,Jul-19,137
+All-items,Aug-19,136.8
+All-items,Sep-19,136.2
+All-items,Oct-19,136.6
+All-items,Nov-19,136.4
+All-items,Dec-19,136.4
+All-items,Jan-20,136.8
+All-items,Feb-20,137.4
+All-items,Mar-20,136.6
+All-items,Apr-20,135.7
+All-items,May-20,136.1
+All-items,Jun-20,137.2
+All-items,Jul-20,137.2
+All-items,Aug-20,137
+All-items,Sep-20,136.9
+All-items,Oct-20,137.5
+All-items,Nov-20,137.7
+All-items,Dec-20,137.4
+All-items,Jan-21,138.2
+All-items,Feb-21,138.9
+All-items,Mar-21,139.6
+All-items,Apr-21,140.3
+All-items,May-21,141
+All-items,Jun-21,141.4
+All-items,Jul-21,142.3
+All-items,Aug-21,142.6
+All-items,Sep-21,142.9
+All-items,Oct-21,143.9
+All-items,Nov-21,144.2
+All-items,Dec-21,144
+All-items,Jan-22,145.3
+All-items,Feb-22,146.8
+All-items,Mar-22,148.9
+All-items,Apr-22,149.8
+All-items,May-22,151.9
+All-items,Jun-22,152.9
+All-items,Jul-22,153.1
+All-items,Aug-22,152.6
+All-items,Sep-22,152.7
+All-items,Oct-22,153.8
+All-items,Nov-22,154
+All-items,Dec-22,153.1
+All-items,Jan-23,153.9
+All-items,Feb-23,154.5
+All-items,Mar-23,155.3
+All-items,Apr-23,156.4
+All-items,May-23,157
+All-items,Jun-23,157.2
+All-items,Jul-23,158.1
+All-items,Aug-23,158.7
+All-items,Sep-23,158.5
+All-items,Oct-23,158.6
+All-items,Nov-23,158.8
+All-items,Dec-23,158.3
+Food,Jan-13,131.6
+Food,Feb-13,132.9
+Food,Mar-13,132.4
+Food,Apr-13,132.1
+Food,May-13,132.6
+Food,Jun-13,132.5
+Food,Jul-13,132.7
+Food,Aug-13,133
+Food,Sep-13,131.9
+Food,Oct-13,131.7
+Food,Nov-13,132.8
+Food,Dec-13,132.5
+Food,Jan-14,133
+Food,Feb-14,134.3
+Food,Mar-14,134.4
+Food,Apr-14,134.6
+Food,May-14,135.7
+Food,Jun-14,136.4
+Food,Jul-14,136.5
+Food,Aug-14,135.9
+Food,Sep-14,135.5
+Food,Oct-14,135.4
+Food,Nov-14,136.9
+Food,Dec-14,137.4
+Food,Jan-15,139.1
+Food,Feb-15,139.5
+Food,Mar-15,139.5
+Food,Apr-15,139.4
+Food,May-15,140.8
+Food,Jun-15,141
+Food,Jul-15,140.9
+Food,Aug-15,140.8
+Food,Sep-15,140.3
+Food,Oct-15,140.9
+Food,Nov-15,141.6
+Food,Dec-15,142.5
+Food,Jan-16,144.6
+Food,Feb-16,145
+Food,Mar-16,144.5
+Food,Apr-16,143.8
+Food,May-16,143.3
+Food,Jun-16,142.8
+Food,Jul-16,143.2
+Food,Aug-16,142.3
+Food,Sep-16,140.4
+Food,Oct-16,139.9
+Food,Nov-16,140.6
+Food,Dec-16,140.6
+Food,Jan-17,141.5
+Food,Feb-17,141.7
+Food,Mar-17,141.8
+Food,Apr-17,142.2
+Food,May-17,143.1
+Food,Jun-17,143.6
+Food,Jul-17,144.1
+Food,Aug-17,143.6
+Food,Sep-17,142.4
+Food,Oct-17,141.7
+Food,Nov-17,142.9
+Food,Dec-17,143.4
+Food,Jan-18,144.7
+Food,Feb-18,144.7
+Food,Mar-18,144.2
+Food,Apr-18,144.8
+Food,May-18,144.6
+Food,Jun-18,145.6
+Food,Jul-18,146.1
+Food,Aug-18,145.9
+Food,Sep-18,144.9
+Food,Oct-18,144.6
+Food,Nov-18,146.1
+Food,Dec-18,147.5
+Food,Jan-19,148.7
+Food,Feb-19,149.3
+Food,Mar-19,149.4
+Food,Apr-19,149
+Food,May-19,149.7
+Food,Jun-19,150.7
+Food,Jul-19,151.6
+Food,Aug-19,151.1
+Food,Sep-19,150.2
+Food,Oct-19,149.9
+Food,Nov-19,151.1
+Food,Dec-19,151.9
+Food,Jan-20,153.5
+Food,Feb-20,152.9
+Food,Mar-20,152.8
+Food,Apr-20,154
+Food,May-20,154.3
+Food,Jun-20,154.8
+Food,Jul-20,155
+Food,Aug-20,153.8
+Food,Sep-20,152.6
+Food,Oct-20,153.3
+Food,Nov-20,153.9
+Food,Dec-20,153.6
+Food,Jan-21,155
+Food,Feb-21,155.6
+Food,Mar-21,155.5
+Food,Apr-21,155.4
+Food,May-21,156.6
+Food,Jun-21,156.8
+Food,Jul-21,157.6
+Food,Aug-21,158
+Food,Sep-21,158.5
+Food,Oct-21,159.2
+Food,Nov-21,160.7
+Food,Dec-21,161.6
+Food,Jan-22,163.9
+Food,Feb-22,166
+Food,Mar-22,167.5
+Food,Apr-22,169
+Food,May-22,170.4
+Food,Jun-22,170.6
+Food,Jul-22,172.1
+Food,Aug-22,173.5
+Food,Sep-22,174.8
+Food,Oct-22,175.2
+Food,Nov-22,177.3
+Food,Dec-22,177.9
+Food,Jan-23,181
+Food,Feb-23,182.1
+Food,Mar-23,182.4
+Food,Apr-23,183.1
+Food,May-23,184.6
+Food,Jun-23,184.8
+Food,Jul-23,185.5
+Food,Aug-23,185.3
+Food,Sep-23,185.2
+Food,Oct-23,185
+Food,Nov-23,186.2
+Food,Dec-23,186.8
+Shelter,Jan-13,127.8
+Shelter,Feb-13,127.9
+Shelter,Mar-13,128
+Shelter,Apr-13,128.2
+Shelter,May-13,128.3
+Shelter,Jun-13,128.5
+Shelter,Jul-13,128.8
+Shelter,Aug-13,128.8
+Shelter,Sep-13,129
+Shelter,Oct-13,129.2
+Shelter,Nov-13,129.8
+Shelter,Dec-13,129.9
+Shelter,Jan-14,130.5
+Shelter,Feb-14,130.7
+Shelter,Mar-14,131.4
+Shelter,Apr-14,132.4
+Shelter,May-14,132.6
+Shelter,Jun-14,132.2
+Shelter,Jul-14,132.6
+Shelter,Aug-14,132.4
+Shelter,Sep-14,132.5
+Shelter,Oct-14,132.8
+Shelter,Nov-14,132.8
+Shelter,Dec-14,133
+Shelter,Jan-15,133.1
+Shelter,Feb-15,133.1
+Shelter,Mar-15,133.3
+Shelter,Apr-15,133.1
+Shelter,May-15,133.2
+Shelter,Jun-15,133.5
+Shelter,Jul-15,133.8
+Shelter,Aug-15,133.9
+Shelter,Sep-15,133.9
+Shelter,Oct-15,134.3
+Shelter,Nov-15,134.4
+Shelter,Dec-15,134.5
+Shelter,Jan-16,134.6
+Shelter,Feb-16,134.7
+Shelter,Mar-16,134.8
+Shelter,Apr-16,134.9
+Shelter,May-16,135.1
+Shelter,Jun-16,135.6
+Shelter,Jul-16,136
+Shelter,Aug-16,136.2
+Shelter,Sep-16,136.2
+Shelter,Oct-16,136.9
+Shelter,Nov-16,137.2
+Shelter,Dec-16,137.3
+Shelter,Jan-17,137.8
+Shelter,Feb-17,137.6
+Shelter,Mar-17,137.7
+Shelter,Apr-17,137.9
+Shelter,May-17,137.7
+Shelter,Jun-17,137.8
+Shelter,Jul-17,137.7
+Shelter,Aug-17,138
+Shelter,Sep-17,138.1
+Shelter,Oct-17,138.6
+Shelter,Nov-17,138.9
+Shelter,Dec-17,139.2
+Shelter,Jan-18,139.7
+Shelter,Feb-18,140
+Shelter,Mar-18,140
+Shelter,Apr-18,140.3
+Shelter,May-18,140.4
+Shelter,Jun-18,140.5
+Shelter,Jul-18,141
+Shelter,Aug-18,141.2
+Shelter,Sep-18,141.5
+Shelter,Oct-18,142
+Shelter,Nov-18,142.3
+Shelter,Dec-18,142.3
+Shelter,Jan-19,143
+Shelter,Feb-19,143.4
+Shelter,Mar-19,143.8
+Shelter,Apr-19,144.1
+Shelter,May-19,144.2
+Shelter,Jun-19,144
+Shelter,Jul-19,144.3
+Shelter,Aug-19,144.6
+Shelter,Sep-19,144.8
+Shelter,Oct-19,145.7
+Shelter,Nov-19,145.9
+Shelter,Dec-19,146.3
+Shelter,Jan-20,146.4
+Shelter,Feb-20,146.7
+Shelter,Mar-20,146.5
+Shelter,Apr-20,146
+Shelter,May-20,145.6
+Shelter,Jun-20,146.4
+Shelter,Jul-20,146.4
+Shelter,Aug-20,146.8
+Shelter,Sep-20,147.3
+Shelter,Oct-20,148.3
+Shelter,Nov-20,148.7
+Shelter,Dec-20,148.7
+Shelter,Jan-21,148.4
+Shelter,Feb-21,148.8
+Shelter,Mar-21,150
+Shelter,Apr-21,150.7
+Shelter,May-21,151.7
+Shelter,Jun-21,152.8
+Shelter,Jul-21,153.5
+Shelter,Aug-21,153.9
+Shelter,Sep-21,154.4
+Shelter,Oct-21,155.4
+Shelter,Nov-21,155.9
+Shelter,Dec-21,156.8
+Shelter,Jan-22,157.6
+Shelter,Feb-22,158.6
+Shelter,Mar-22,160.2
+Shelter,Apr-22,161.9
+Shelter,May-22,163
+Shelter,Jun-22,163.6
+Shelter,Jul-22,164.2
+Shelter,Aug-22,164.1
+Shelter,Sep-22,164.9
+Shelter,Oct-22,166.2
+Shelter,Nov-22,167.2
+Shelter,Dec-22,167.8
+Shelter,Jan-23,168
+Shelter,Feb-23,168.3
+Shelter,Mar-23,168.9
+Shelter,Apr-23,169.9
+Shelter,May-23,170.6
+Shelter,Jun-23,171.4
+Shelter,Jul-23,172.6
+Shelter,Aug-23,174
+Shelter,Sep-23,174.8
+Shelter,Oct-23,176.3
+Shelter,Nov-23,177.1
+Shelter,Dec-23,177.8
+"Household operations, furnishings and equipment",Jan-13,113.5
+"Household operations, furnishings and equipment",Feb-13,114.3
+"Household operations, furnishings and equipment",Mar-13,114.7
+"Household operations, furnishings and equipment",Apr-13,114.3
+"Household operations, furnishings and equipment",May-13,114
+"Household operations, furnishings and equipment",Jun-13,114.2
+"Household operations, furnishings and equipment",Jul-13,114.5
+"Household operations, furnishings and equipment",Aug-13,114.1
+"Household operations, furnishings and equipment",Sep-13,114.5
+"Household operations, furnishings and equipment",Oct-13,114.7
+"Household operations, furnishings and equipment",Nov-13,114.8
+"Household operations, furnishings and equipment",Dec-13,114.7
+"Household operations, furnishings and equipment",Jan-14,114.7
+"Household operations, furnishings and equipment",Feb-14,115.3
+"Household operations, furnishings and equipment",Mar-14,115.7
+"Household operations, furnishings and equipment",Apr-14,115.5
+"Household operations, furnishings and equipment",May-14,115.8
+"Household operations, furnishings and equipment",Jun-14,116.4
+"Household operations, furnishings and equipment",Jul-14,116.3
+"Household operations, furnishings and equipment",Aug-14,117.5
+"Household operations, furnishings and equipment",Sep-14,117.6
+"Household operations, furnishings and equipment",Oct-14,118.1
+"Household operations, furnishings and equipment",Nov-14,118.2
+"Household operations, furnishings and equipment",Dec-14,117.8
+"Household operations, furnishings and equipment",Jan-15,118
+"Household operations, furnishings and equipment",Feb-15,118.9
+"Household operations, furnishings and equipment",Mar-15,119.4
+"Household operations, furnishings and equipment",Apr-15,119.7
+"Household operations, furnishings and equipment",May-15,119.7
+"Household operations, furnishings and equipment",Jun-15,120
+"Household operations, furnishings and equipment",Jul-15,120.1
+"Household operations, furnishings and equipment",Aug-15,120.4
+"Household operations, furnishings and equipment",Sep-15,120.5
+"Household operations, furnishings and equipment",Oct-15,120.6
+"Household operations, furnishings and equipment",Nov-15,119.8
+"Household operations, furnishings and equipment",Dec-15,119.6
+"Household operations, furnishings and equipment",Jan-16,120
+"Household operations, furnishings and equipment",Feb-16,121
+"Household operations, furnishings and equipment",Mar-16,121.4
+"Household operations, furnishings and equipment",Apr-16,121.6
+"Household operations, furnishings and equipment",May-16,122.1
+"Household operations, furnishings and equipment",Jun-16,122.4
+"Household operations, furnishings and equipment",Jul-16,122.3
+"Household operations, furnishings and equipment",Aug-16,122.2
+"Household operations, furnishings and equipment",Sep-16,121.9
+"Household operations, furnishings and equipment",Oct-16,122.1
+"Household operations, furnishings and equipment",Nov-16,121.6
+"Household operations, furnishings and equipment",Dec-16,121.3
+"Household operations, furnishings and equipment",Jan-17,121.4
+"Household operations, furnishings and equipment",Feb-17,121.7
+"Household operations, furnishings and equipment",Mar-17,121.4
+"Household operations, furnishings and equipment",Apr-17,122.2
+"Household operations, furnishings and equipment",May-17,122.4
+"Household operations, furnishings and equipment",Jun-17,122.7
+"Household operations, furnishings and equipment",Jul-17,122.2
+"Household operations, furnishings and equipment",Aug-17,121.9
+"Household operations, furnishings and equipment",Sep-17,121.4
+"Household operations, furnishings and equipment",Oct-17,122.3
+"Household operations, furnishings and equipment",Nov-17,122.7
+"Household operations, furnishings and equipment",Dec-17,120.9
+"Household operations, furnishings and equipment",Jan-18,122.4
+"Household operations, furnishings and equipment",Feb-18,123.4
+"Household operations, furnishings and equipment",Mar-18,122.9
+"Household operations, furnishings and equipment",Apr-18,123.9
+"Household operations, furnishings and equipment",May-18,122.8
+"Household operations, furnishings and equipment",Jun-18,122.6
+"Household operations, furnishings and equipment",Jul-18,123.1
+"Household operations, furnishings and equipment",Aug-18,122.9
+"Household operations, furnishings and equipment",Sep-18,123
+"Household operations, furnishings and equipment",Oct-18,124
+"Household operations, furnishings and equipment",Nov-18,123.8
+"Household operations, furnishings and equipment",Dec-18,123.4
+"Household operations, furnishings and equipment",Jan-19,123.3
+"Household operations, furnishings and equipment",Feb-19,123.6
+"Household operations, furnishings and equipment",Mar-19,123.5
+"Household operations, furnishings and equipment",Apr-19,123.8
+"Household operations, furnishings and equipment",May-19,123.9
+"Household operations, furnishings and equipment",Jun-19,124.1
+"Household operations, furnishings and equipment",Jul-19,123.5
+"Household operations, furnishings and equipment",Aug-19,123.5
+"Household operations, furnishings and equipment",Sep-19,123.6
+"Household operations, furnishings and equipment",Oct-19,123.8
+"Household operations, furnishings and equipment",Nov-19,123.6
+"Household operations, furnishings and equipment",Dec-19,122.9
+"Household operations, furnishings and equipment",Jan-20,122.6
+"Household operations, furnishings and equipment",Feb-20,123.3
+"Household operations, furnishings and equipment",Mar-20,123.7
+"Household operations, furnishings and equipment",Apr-20,124.2
+"Household operations, furnishings and equipment",May-20,123.6
+"Household operations, furnishings and equipment",Jun-20,123.7
+"Household operations, furnishings and equipment",Jul-20,124.2
+"Household operations, furnishings and equipment",Aug-20,124
+"Household operations, furnishings and equipment",Sep-20,124
+"Household operations, furnishings and equipment",Oct-20,124.3
+"Household operations, furnishings and equipment",Nov-20,124.3
+"Household operations, furnishings and equipment",Dec-20,123.6
+"Household operations, furnishings and equipment",Jan-21,124.3
+"Household operations, furnishings and equipment",Feb-21,124.3
+"Household operations, furnishings and equipment",Mar-21,123.5
+"Household operations, furnishings and equipment",Apr-21,124.7
+"Household operations, furnishings and equipment",May-21,124.7
+"Household operations, furnishings and equipment",Jun-21,124.8
+"Household operations, furnishings and equipment",Jul-21,125.6
+"Household operations, furnishings and equipment",Aug-21,125.8
+"Household operations, furnishings and equipment",Sep-21,125.9
+"Household operations, furnishings and equipment",Oct-21,126.5
+"Household operations, furnishings and equipment",Nov-21,126.3
+"Household operations, furnishings and equipment",Dec-21,126.1
+"Household operations, furnishings and equipment",Jan-22,126.7
+"Household operations, furnishings and equipment",Feb-22,127.6
+"Household operations, furnishings and equipment",Mar-22,129.1
+"Household operations, furnishings and equipment",Apr-22,129.8
+"Household operations, furnishings and equipment",May-22,131.5
+"Household operations, furnishings and equipment",Jun-22,131.8
+"Household operations, furnishings and equipment",Jul-22,131.9
+"Household operations, furnishings and equipment",Aug-22,132.2
+"Household operations, furnishings and equipment",Sep-22,132.7
+"Household operations, furnishings and equipment",Oct-22,132.9
+"Household operations, furnishings and equipment",Nov-22,132.9
+"Household operations, furnishings and equipment",Dec-22,131.9
+"Household operations, furnishings and equipment",Jan-23,131.4
+"Household operations, furnishings and equipment",Feb-23,132.8
+"Household operations, furnishings and equipment",Mar-23,133.3
+"Household operations, furnishings and equipment",Apr-23,133.7
+"Household operations, furnishings and equipment",May-23,133
+"Household operations, furnishings and equipment",Jun-23,132.2
+"Household operations, furnishings and equipment",Jul-23,131.8
+"Household operations, furnishings and equipment",Aug-23,132.2
+"Household operations, furnishings and equipment",Sep-23,131.3
+"Household operations, furnishings and equipment",Oct-23,131.3
+"Household operations, furnishings and equipment",Nov-23,130.9
+"Household operations, furnishings and equipment",Dec-23,129.7
+Clothing and footwear,Jan-13,87.9
+Clothing and footwear,Feb-13,91.4
+Clothing and footwear,Mar-13,95.3
+Clothing and footwear,Apr-13,94.7
+Clothing and footwear,May-13,93.9
+Clothing and footwear,Jun-13,91.2
+Clothing and footwear,Jul-13,90.4
+Clothing and footwear,Aug-13,91.6
+Clothing and footwear,Sep-13,93.7
+Clothing and footwear,Oct-13,94
+Clothing and footwear,Nov-13,92.1
+Clothing and footwear,Dec-13,89.4
+Clothing and footwear,Jan-14,89.2
+Clothing and footwear,Feb-14,91
+Clothing and footwear,Mar-14,94
+Clothing and footwear,Apr-14,95
+Clothing and footwear,May-14,94.5
+Clothing and footwear,Jun-14,92.7
+Clothing and footwear,Jul-14,91.8
+Clothing and footwear,Aug-14,92.1
+Clothing and footwear,Sep-14,95.6
+Clothing and footwear,Oct-14,96.9
+Clothing and footwear,Nov-14,94.7
+Clothing and footwear,Dec-14,91.1
+Clothing and footwear,Jan-15,91.1
+Clothing and footwear,Feb-15,93.3
+Clothing and footwear,Mar-15,96.4
+Clothing and footwear,Apr-15,96.2
+Clothing and footwear,May-15,95
+Clothing and footwear,Jun-15,93
+Clothing and footwear,Jul-15,93
+Clothing and footwear,Aug-15,94
+Clothing and footwear,Sep-15,96.7
+Clothing and footwear,Oct-15,97.7
+Clothing and footwear,Nov-15,96.7
+Clothing and footwear,Dec-15,91.7
+Clothing and footwear,Jan-16,90.8
+Clothing and footwear,Feb-16,92.1
+Clothing and footwear,Mar-16,96
+Clothing and footwear,Apr-16,96
+Clothing and footwear,May-16,96
+Clothing and footwear,Jun-16,94.1
+Clothing and footwear,Jul-16,92.6
+Clothing and footwear,Aug-16,93.6
+Clothing and footwear,Sep-16,96.8
+Clothing and footwear,Oct-16,97.5
+Clothing and footwear,Nov-16,95.5
+Clothing and footwear,Dec-16,91.9
+Clothing and footwear,Jan-17,91.1
+Clothing and footwear,Feb-17,92.9
+Clothing and footwear,Mar-17,95.1
+Clothing and footwear,Apr-17,94.1
+Clothing and footwear,May-17,94.6
+Clothing and footwear,Jun-17,92.5
+Clothing and footwear,Jul-17,92.5
+Clothing and footwear,Aug-17,93.2
+Clothing and footwear,Sep-17,94.6
+Clothing and footwear,Oct-17,96
+Clothing and footwear,Nov-17,95.3
+Clothing and footwear,Dec-17,92.4
+Clothing and footwear,Jan-18,91.7
+Clothing and footwear,Feb-18,93.3
+Clothing and footwear,Mar-18,95
+Clothing and footwear,Apr-18,96.2
+Clothing and footwear,May-18,95.4
+Clothing and footwear,Jun-18,94.2
+Clothing and footwear,Jul-18,93
+Clothing and footwear,Aug-18,93.7
+Clothing and footwear,Sep-18,96
+Clothing and footwear,Oct-18,97.2
+Clothing and footwear,Nov-18,95.9
+Clothing and footwear,Dec-18,92.6
+Clothing and footwear,Jan-19,92.2
+Clothing and footwear,Feb-19,94.8
+Clothing and footwear,Mar-19,96.4
+Clothing and footwear,Apr-19,97.2
+Clothing and footwear,May-19,96.7
+Clothing and footwear,Jun-19,94.9
+Clothing and footwear,Jul-19,94
+Clothing and footwear,Aug-19,94.7
+Clothing and footwear,Sep-19,98.5
+Clothing and footwear,Oct-19,99.4
+Clothing and footwear,Nov-19,98.5
+Clothing and footwear,Dec-19,95.3
+Clothing and footwear,Jan-20,95.8
+Clothing and footwear,Feb-20,97.4
+Clothing and footwear,Mar-20,99
+Clothing and footwear,Apr-20,93.2
+Clothing and footwear,May-20,91.5
+Clothing and footwear,Jun-20,92.4
+Clothing and footwear,Jul-20,92.1
+Clothing and footwear,Aug-20,93.5
+Clothing and footwear,Sep-20,94.5
+Clothing and footwear,Oct-20,95.4
+Clothing and footwear,Nov-20,96.2
+Clothing and footwear,Dec-20,92.1
+Clothing and footwear,Jan-21,91.9
+Clothing and footwear,Feb-21,92.7
+Clothing and footwear,Mar-21,93.7
+Clothing and footwear,Apr-21,94.9
+Clothing and footwear,May-21,95.1
+Clothing and footwear,Jun-21,93.4
+Clothing and footwear,Jul-21,93
+Clothing and footwear,Aug-21,93.3
+Clothing and footwear,Sep-21,94.7
+Clothing and footwear,Oct-21,96
+Clothing and footwear,Nov-21,96.9
+Clothing and footwear,Dec-21,93.1
+Clothing and footwear,Jan-22,93.4
+Clothing and footwear,Feb-22,93.8
+Clothing and footwear,Mar-22,94.5
+Clothing and footwear,Apr-22,95.1
+Clothing and footwear,May-22,97.2
+Clothing and footwear,Jun-22,95.9
+Clothing and footwear,Jul-22,94.3
+Clothing and footwear,Aug-22,94.6
+Clothing and footwear,Sep-22,96.1
+Clothing and footwear,Oct-22,97.7
+Clothing and footwear,Nov-22,97.3
+Clothing and footwear,Dec-22,94.8
+Clothing and footwear,Jan-23,93.8
+Clothing and footwear,Feb-23,95.6
+Clothing and footwear,Mar-23,96.8
+Clothing and footwear,Apr-23,97.5
+Clothing and footwear,May-23,97.9
+Clothing and footwear,Jun-23,96.2
+Clothing and footwear,Jul-23,95.2
+Clothing and footwear,Aug-23,96.2
+Clothing and footwear,Sep-23,97.1
+Clothing and footwear,Oct-23,97.2
+Clothing and footwear,Nov-23,97.9
+Clothing and footwear,Dec-23,95.7
+Transportation,Jan-13,126.7
+Transportation,Feb-13,130.3
+Transportation,Mar-13,129.5
+Transportation,Apr-13,128.6
+Transportation,May-13,129.2
+Transportation,Jun-13,130.2
+Transportation,Jul-13,129.8
+Transportation,Aug-13,129.2
+Transportation,Sep-13,129.3
+Transportation,Oct-13,128.5
+Transportation,Nov-13,128
+Transportation,Dec-13,128.5
+Transportation,Jan-14,129.2
+Transportation,Feb-14,130.8
+Transportation,Mar-14,131.7
+Transportation,Apr-14,132.2
+Transportation,May-14,132.7
+Transportation,Jun-14,133.1
+Transportation,Jul-14,131.5
+Transportation,Aug-14,130.8
+Transportation,Sep-14,130
+Transportation,Oct-14,129.9
+Transportation,Nov-14,127.7
+Transportation,Dec-14,124.9
+Transportation,Jan-15,122.4
+Transportation,Feb-15,124.3
+Transportation,Mar-15,126.6
+Transportation,Apr-15,126.6
+Transportation,May-15,128
+Transportation,Jun-15,129.6
+Transportation,Jul-15,129.2
+Transportation,Aug-15,127.8
+Transportation,Sep-15,125.4
+Transportation,Oct-15,125.8
+Transportation,Nov-15,126.3
+Transportation,Dec-15,125.6
+Transportation,Jan-16,125.1
+Transportation,Feb-16,123.7
+Transportation,Mar-16,125.3
+Transportation,Apr-16,127.8
+Transportation,May-16,129.4
+Transportation,Jun-16,131
+Transportation,Jul-16,128.9
+Transportation,Aug-16,128.2
+Transportation,Sep-16,128.3
+Transportation,Oct-16,129.6
+Transportation,Nov-16,128.1
+Transportation,Dec-16,129.4
+Transportation,Jan-17,133
+Transportation,Feb-17,131.9
+Transportation,Mar-17,131.1
+Transportation,Apr-17,133.2
+Transportation,May-17,132.3
+Transportation,Jun-17,131.8
+Transportation,Jul-17,131.3
+Transportation,Aug-17,131.8
+Transportation,Sep-17,133.2
+Transportation,Oct-17,133.5
+Transportation,Nov-17,135.7
+Transportation,Dec-17,135.7
+Transportation,Jan-18,137.2
+Transportation,Feb-18,137.7
+Transportation,Mar-18,138
+Transportation,Apr-18,139.5
+Transportation,May-18,139.7
+Transportation,Jun-18,140.5
+Transportation,Jul-18,142
+Transportation,Aug-18,141.3
+Transportation,Sep-18,138.4
+Transportation,Oct-18,139.3
+Transportation,Nov-18,137.1
+Transportation,Dec-18,138
+Transportation,Jan-19,136.6
+Transportation,Feb-19,137.9
+Transportation,Mar-19,140.6
+Transportation,Apr-19,143
+Transportation,May-19,144
+Transportation,Jun-19,142.7
+Transportation,Jul-19,144.2
+Transportation,Aug-19,143.3
+Transportation,Sep-19,140.3
+Transportation,Oct-19,141.3
+Transportation,Nov-19,141.5
+Transportation,Dec-19,143.1
+Transportation,Jan-20,143.4
+Transportation,Feb-20,144
+Transportation,Mar-20,138.9
+Transportation,Apr-20,136.7
+Transportation,May-20,139.7
+Transportation,Jun-20,142.8
+Transportation,Jul-20,142.8
+Transportation,Aug-20,141.5
+Transportation,Sep-20,140.4
+Transportation,Oct-20,141.1
+Transportation,Nov-20,141.3
+Transportation,Dec-20,142.3
+Transportation,Jan-21,144.9
+Transportation,Feb-21,147.1
+Transportation,Mar-21,148.8
+Transportation,Apr-21,149.5
+Transportation,May-21,150.3
+Transportation,Jun-21,150.8
+Transportation,Jul-21,152.2
+Transportation,Aug-21,153.8
+Transportation,Sep-21,153.2
+Transportation,Oct-21,155.4
+Transportation,Nov-21,155.4
+Transportation,Dec-21,154.9
+Transportation,Jan-22,156.9
+Transportation,Feb-22,159.9
+Transportation,Mar-22,165.5
+Transportation,Apr-22,166.3
+Transportation,May-22,172.2
+Transportation,Jun-22,176.2
+Transportation,Jul-22,174.1
+Transportation,Aug-22,169.7
+Transportation,Sep-22,166.5
+Transportation,Oct-22,170.1
+Transportation,Nov-22,168.6
+Transportation,Dec-22,164.2
+Transportation,Jan-23,165.4
+Transportation,Feb-23,164.8
+Transportation,Mar-23,166
+Transportation,Apr-23,168.5
+Transportation,May-23,168.1
+Transportation,Jun-23,170.2
+Transportation,Jul-23,172.4
+Transportation,Aug-23,173.6
+Transportation,Sep-23,171.9
+Transportation,Oct-23,169.5
+Transportation,Nov-23,168.5
+Transportation,Dec-23,169.5
+Gasoline,Jan-13,171.6
+Gasoline,Feb-13,186.1
+Gasoline,Mar-13,186.5
+Gasoline,Apr-13,181.3
+Gasoline,May-13,183.3
+Gasoline,Jun-13,188.5
+Gasoline,Jul-13,191
+Gasoline,Aug-13,189
+Gasoline,Sep-13,188.2
+Gasoline,Oct-13,178.6
+Gasoline,Nov-13,176.6
+Gasoline,Dec-13,179.7
+Gasoline,Jan-14,179.5
+Gasoline,Feb-14,183.7
+Gasoline,Mar-14,189.2
+Gasoline,Apr-14,193.2
+Gasoline,May-14,194.8
+Gasoline,Jun-14,198.7
+Gasoline,Jul-14,195
+Gasoline,Aug-14,188.8
+Gasoline,Sep-14,187.2
+Gasoline,Oct-14,179.7
+Gasoline,Nov-14,166.2
+Gasoline,Dec-14,149.9
+Gasoline,Jan-15,131.3
+Gasoline,Feb-15,143.7
+Gasoline,Mar-15,152.8
+Gasoline,Apr-15,152.6
+Gasoline,May-15,161
+Gasoline,Jun-15,170.6
+Gasoline,Jul-15,171.3
+Gasoline,Aug-15,165.1
+Gasoline,Sep-15,152.1
+Gasoline,Oct-15,149
+Gasoline,Nov-15,148.6
+Gasoline,Dec-15,142.7
+Gasoline,Jan-16,134.1
+Gasoline,Feb-16,124.9
+Gasoline,Mar-16,132
+Gasoline,Apr-16,143.7
+Gasoline,May-16,149.6
+Gasoline,Jun-16,156.1
+Gasoline,Jul-16,147.4
+Gasoline,Aug-16,146.1
+Gasoline,Sep-16,147.3
+Gasoline,Oct-16,152.7
+Gasoline,Nov-16,146.1
+Gasoline,Dec-16,150.6
+Gasoline,Jan-17,161.7
+Gasoline,Feb-17,153.7
+Gasoline,Mar-17,152
+Gasoline,Apr-17,166.5
+Gasoline,May-17,159.8
+Gasoline,Jun-17,153.9
+Gasoline,Jul-17,154.2
+Gasoline,Aug-17,158.7
+Gasoline,Sep-17,168.1
+Gasoline,Oct-17,162.7
+Gasoline,Nov-17,174.7
+Gasoline,Dec-17,168.9
+Gasoline,Jan-18,174.3
+Gasoline,Feb-18,173
+Gasoline,Mar-18,178
+Gasoline,Apr-18,190.1
+Gasoline,May-18,196.4
+Gasoline,Jun-18,191.8
+Gasoline,Jul-18,193.3
+Gasoline,Aug-18,190.3
+Gasoline,Sep-18,188.3
+Gasoline,Oct-18,182.3
+Gasoline,Nov-18,165.2
+Gasoline,Dec-18,154.4
+Gasoline,Jan-19,149.6
+Gasoline,Feb-19,152.4
+Gasoline,Mar-19,170.1
+Gasoline,Apr-19,187.1
+Gasoline,May-19,189.2
+Gasoline,Jun-19,174.1
+Gasoline,Jul-19,179.9
+Gasoline,Aug-19,170.9
+Gasoline,Sep-19,169.5
+Gasoline,Oct-19,170.1
+Gasoline,Nov-19,166.7
+Gasoline,Dec-19,165.8
+Gasoline,Jan-20,166.4
+Gasoline,Feb-20,163.1
+Gasoline,Mar-20,134
+Gasoline,Apr-20,113.6
+Gasoline,May-20,132.8
+Gasoline,Jun-20,146.7
+Gasoline,Jul-20,153.1
+Gasoline,Aug-20,151.9
+Gasoline,Sep-20,151.3
+Gasoline,Oct-20,149
+Gasoline,Nov-20,146.8
+Gasoline,Dec-20,151.7
+Gasoline,Jan-21,160.9
+Gasoline,Feb-21,171.3
+Gasoline,Mar-21,181.3
+Gasoline,Apr-21,184.6
+Gasoline,May-21,190.5
+Gasoline,Jun-21,193.6
+Gasoline,Jul-21,200.4
+Gasoline,Aug-21,201.3
+Gasoline,Sep-21,201
+Gasoline,Oct-21,211.1
+Gasoline,Nov-21,210.8
+Gasoline,Dec-21,202.2
+Gasoline,Jan-22,211.9
+Gasoline,Feb-22,226.6
+Gasoline,Mar-22,253.4
+Gasoline,Apr-22,251.7
+Gasoline,May-22,281.9
+Gasoline,Jun-22,299.4
+Gasoline,Jul-22,271.8
+Gasoline,Aug-22,245.8
+Gasoline,Sep-22,227.6
+Gasoline,Oct-22,248.6
+Gasoline,Nov-22,239.6
+Gasoline,Dec-22,208.3
+Gasoline,Jan-23,218.1
+Gasoline,Feb-23,215.9
+Gasoline,Mar-23,218.4
+Gasoline,Apr-23,232.2
+Gasoline,May-23,230.3
+Gasoline,Jun-23,234.7
+Gasoline,Jul-23,236.8
+Gasoline,Aug-23,247.8
+Gasoline,Sep-23,244.7
+Gasoline,Oct-23,229.1
+Gasoline,Nov-23,221.1
+Gasoline,Dec-23,211.3
+Health and personal care,Jan-13,118.5
+Health and personal care,Feb-13,118.6
+Health and personal care,Mar-13,118.3
+Health and personal care,Apr-13,118.6
+Health and personal care,May-13,118.3
+Health and personal care,Jun-13,118.4
+Health and personal care,Jul-13,118
+Health and personal care,Aug-13,118.1
+Health and personal care,Sep-13,118.4
+Health and personal care,Oct-13,117.9
+Health and personal care,Nov-13,118
+Health and personal care,Dec-13,118.1
+Health and personal care,Jan-14,118.3
+Health and personal care,Feb-14,118.4
+Health and personal care,Mar-14,118.1
+Health and personal care,Apr-14,118.9
+Health and personal care,May-14,119.2
+Health and personal care,Jun-14,119
+Health and personal care,Jul-14,118.9
+Health and personal care,Aug-14,119.2
+Health and personal care,Sep-14,119.3
+Health and personal care,Oct-14,118.8
+Health and personal care,Nov-14,119.9
+Health and personal care,Dec-14,119.6
+Health and personal care,Jan-15,120
+Health and personal care,Feb-15,120.1
+Health and personal care,Mar-15,119.5
+Health and personal care,Apr-15,120.1
+Health and personal care,May-15,120.7
+Health and personal care,Jun-15,120.5
+Health and personal care,Jul-15,120.6
+Health and personal care,Aug-15,120.5
+Health and personal care,Sep-15,120.7
+Health and personal care,Oct-15,120.7
+Health and personal care,Nov-15,121.6
+Health and personal care,Dec-15,121
+Health and personal care,Jan-16,121.5
+Health and personal care,Feb-16,121.5
+Health and personal care,Mar-16,121.4
+Health and personal care,Apr-16,122.2
+Health and personal care,May-16,122.3
+Health and personal care,Jun-16,122.2
+Health and personal care,Jul-16,122
+Health and personal care,Aug-16,122.7
+Health and personal care,Sep-16,122.4
+Health and personal care,Oct-16,122.8
+Health and personal care,Nov-16,122.9
+Health and personal care,Dec-16,122.6
+Health and personal care,Jan-17,123.4
+Health and personal care,Feb-17,123.3
+Health and personal care,Mar-17,123.5
+Health and personal care,Apr-17,124.2
+Health and personal care,May-17,124.1
+Health and personal care,Jun-17,124.4
+Health and personal care,Jul-17,124.7
+Health and personal care,Aug-17,125
+Health and personal care,Sep-17,124.5
+Health and personal care,Oct-17,125.3
+Health and personal care,Nov-17,124.2
+Health and personal care,Dec-17,124.4
+Health and personal care,Jan-18,125.1
+Health and personal care,Feb-18,125.6
+Health and personal care,Mar-18,126.3
+Health and personal care,Apr-18,126.2
+Health and personal care,May-18,125.9
+Health and personal care,Jun-18,126.3
+Health and personal care,Jul-18,126.1
+Health and personal care,Aug-18,126.7
+Health and personal care,Sep-18,126.1
+Health and personal care,Oct-18,126.3
+Health and personal care,Nov-18,125.1
+Health and personal care,Dec-18,125.6
+Health and personal care,Jan-19,125.9
+Health and personal care,Feb-19,126.4
+Health and personal care,Mar-19,126.6
+Health and personal care,Apr-19,127.1
+Health and personal care,May-19,127.3
+Health and personal care,Jun-19,127.7
+Health and personal care,Jul-19,128
+Health and personal care,Aug-19,127.8
+Health and personal care,Sep-19,127.8
+Health and personal care,Oct-19,127.9
+Health and personal care,Nov-19,128
+Health and personal care,Dec-19,127.9
+Health and personal care,Jan-20,128.6
+Health and personal care,Feb-20,128.8
+Health and personal care,Mar-20,128.6
+Health and personal care,Apr-20,128.7
+Health and personal care,May-20,128.4
+Health and personal care,Jun-20,128.3
+Health and personal care,Jul-20,128.8
+Health and personal care,Aug-20,129.6
+Health and personal care,Sep-20,129.8
+Health and personal care,Oct-20,130.2
+Health and personal care,Nov-20,130.6
+Health and personal care,Dec-20,130
+Health and personal care,Jan-21,130.3
+Health and personal care,Feb-21,130.5
+Health and personal care,Mar-21,130.5
+Health and personal care,Apr-21,132.5
+Health and personal care,May-21,132.4
+Health and personal care,Jun-21,132.6
+Health and personal care,Jul-21,133.4
+Health and personal care,Aug-21,133.3
+Health and personal care,Sep-21,133.7
+Health and personal care,Oct-21,133.9
+Health and personal care,Nov-21,134.1
+Health and personal care,Dec-21,133.4
+Health and personal care,Jan-22,134.1
+Health and personal care,Feb-22,134.6
+Health and personal care,Mar-22,134.9
+Health and personal care,Apr-22,137
+Health and personal care,May-22,137.2
+Health and personal care,Jun-22,137.8
+Health and personal care,Jul-22,138.6
+Health and personal care,Aug-22,139.1
+Health and personal care,Sep-22,139.6
+Health and personal care,Oct-22,140.4
+Health and personal care,Nov-22,141.5
+Health and personal care,Dec-22,141.5
+Health and personal care,Jan-23,142.4
+Health and personal care,Feb-23,143
+Health and personal care,Mar-23,143.7
+Health and personal care,Apr-23,145.7
+Health and personal care,May-23,146
+Health and personal care,Jun-23,146.4
+Health and personal care,Jul-23,146.6
+Health and personal care,Aug-23,147.2
+Health and personal care,Sep-23,147.4
+Health and personal care,Oct-23,147.3
+Health and personal care,Nov-23,147.4
+Health and personal care,Dec-23,146.7
+"Recreation, education and reading",Jan-13,103.7
+"Recreation, education and reading",Feb-13,104.7
+"Recreation, education and reading",Mar-13,105.2
+"Recreation, education and reading",Apr-13,105.2
+"Recreation, education and reading",May-13,106.5
+"Recreation, education and reading",Jun-13,106.6
+"Recreation, education and reading",Jul-13,107.7
+"Recreation, education and reading",Aug-13,107.9
+"Recreation, education and reading",Sep-13,107.9
+"Recreation, education and reading",Oct-13,106.9
+"Recreation, education and reading",Nov-13,106.2
+"Recreation, education and reading",Dec-13,105.3
+"Recreation, education and reading",Jan-14,104.7
+"Recreation, education and reading",Feb-14,106.4
+"Recreation, education and reading",Mar-14,106.5
+"Recreation, education and reading",Apr-14,106.2
+"Recreation, education and reading",May-14,107.8
+"Recreation, education and reading",Jun-14,108.2
+"Recreation, education and reading",Jul-14,108.9
+"Recreation, education and reading",Aug-14,109.4
+"Recreation, education and reading",Sep-14,109.6
+"Recreation, education and reading",Oct-14,108.7
+"Recreation, education and reading",Nov-14,106.8
+"Recreation, education and reading",Dec-14,106.1
+"Recreation, education and reading",Jan-15,105.6
+"Recreation, education and reading",Feb-15,107.9
+"Recreation, education and reading",Mar-15,108.7
+"Recreation, education and reading",Apr-15,107.7
+"Recreation, education and reading",May-15,109.9
+"Recreation, education and reading",Jun-15,110.6
+"Recreation, education and reading",Jul-15,111.2
+"Recreation, education and reading",Aug-15,111.7
+"Recreation, education and reading",Sep-15,112.3
+"Recreation, education and reading",Oct-15,110.8
+"Recreation, education and reading",Nov-15,108.8
+"Recreation, education and reading",Dec-15,107.9
+"Recreation, education and reading",Jan-16,107.9
+"Recreation, education and reading",Feb-16,109.6
+"Recreation, education and reading",Mar-16,110.9
+"Recreation, education and reading",Apr-16,110.3
+"Recreation, education and reading",May-16,111.7
+"Recreation, education and reading",Jun-16,112
+"Recreation, education and reading",Jul-16,113.3
+"Recreation, education and reading",Aug-16,112.9
+"Recreation, education and reading",Sep-16,113.8
+"Recreation, education and reading",Oct-16,112.4
+"Recreation, education and reading",Nov-16,111.1
+"Recreation, education and reading",Dec-16,110.2
+"Recreation, education and reading",Jan-17,111.3
+"Recreation, education and reading",Feb-17,113.2
+"Recreation, education and reading",Mar-17,114.9
+"Recreation, education and reading",Apr-17,113.9
+"Recreation, education and reading",May-17,114.5
+"Recreation, education and reading",Jun-17,114.9
+"Recreation, education and reading",Jul-17,115.8
+"Recreation, education and reading",Aug-17,115.3
+"Recreation, education and reading",Sep-17,116.2
+"Recreation, education and reading",Oct-17,114.1
+"Recreation, education and reading",Nov-17,113
+"Recreation, education and reading",Dec-17,111.2
+"Recreation, education and reading",Jan-18,111.8
+"Recreation, education and reading",Feb-18,114.1
+"Recreation, education and reading",Mar-18,116.4
+"Recreation, education and reading",Apr-18,113.7
+"Recreation, education and reading",May-18,116.5
+"Recreation, education and reading",Jun-18,115.6
+"Recreation, education and reading",Jul-18,117.9
+"Recreation, education and reading",Aug-18,117.5
+"Recreation, education and reading",Sep-18,117
+"Recreation, education and reading",Oct-18,116.1
+"Recreation, education and reading",Nov-18,114.3
+"Recreation, education and reading",Dec-18,112.9
+"Recreation, education and reading",Jan-19,113.3
+"Recreation, education and reading",Feb-19,115.2
+"Recreation, education and reading",Mar-19,116.6
+"Recreation, education and reading",Apr-19,115.8
+"Recreation, education and reading",May-19,118.6
+"Recreation, education and reading",Jun-19,117.9
+"Recreation, education and reading",Jul-19,121.1
+"Recreation, education and reading",Aug-19,119.8
+"Recreation, education and reading",Sep-19,118
+"Recreation, education and reading",Oct-19,117.6
+"Recreation, education and reading",Nov-19,114.5
+"Recreation, education and reading",Dec-19,113.2
+"Recreation, education and reading",Jan-20,113
+"Recreation, education and reading",Feb-20,116
+"Recreation, education and reading",Mar-20,116
+"Recreation, education and reading",Apr-20,115
+"Recreation, education and reading",May-20,115.5
+"Recreation, education and reading",Jun-20,116.3
+"Recreation, education and reading",Jul-20,116.3
+"Recreation, education and reading",Aug-20,116.1
+"Recreation, education and reading",Sep-20,116.6
+"Recreation, education and reading",Oct-20,116.1
+"Recreation, education and reading",Nov-20,115.6
+"Recreation, education and reading",Dec-20,115.5
+"Recreation, education and reading",Jan-21,116.3
+"Recreation, education and reading",Feb-21,116.1
+"Recreation, education and reading",Mar-21,116.4
+"Recreation, education and reading",Apr-21,116.8
+"Recreation, education and reading",May-21,117.6
+"Recreation, education and reading",Jun-21,118
+"Recreation, education and reading",Jul-21,119.7
+"Recreation, education and reading",Aug-21,118.6
+"Recreation, education and reading",Sep-21,119
+"Recreation, education and reading",Oct-21,120.1
+"Recreation, education and reading",Nov-21,118.5
+"Recreation, education and reading",Dec-21,117.7
+"Recreation, education and reading",Jan-22,119.2
+"Recreation, education and reading",Feb-22,120.9
+"Recreation, education and reading",Mar-22,123.1
+"Recreation, education and reading",Apr-22,121.6
+"Recreation, education and reading",May-22,123.9
+"Recreation, education and reading",Jun-22,125.3
+"Recreation, education and reading",Jul-22,127.1
+"Recreation, education and reading",Aug-22,125.4
+"Recreation, education and reading",Sep-22,125.2
+"Recreation, education and reading",Oct-22,125
+"Recreation, education and reading",Nov-22,123.4
+"Recreation, education and reading",Dec-22,121.7
+"Recreation, education and reading",Jan-23,122.6
+"Recreation, education and reading",Feb-23,123.7
+"Recreation, education and reading",Mar-23,125.1
+"Recreation, education and reading",Apr-23,125.4
+"Recreation, education and reading",May-23,127.8
+"Recreation, education and reading",Jun-23,126.8
+"Recreation, education and reading",Jul-23,129.4
+"Recreation, education and reading",Aug-23,128.2
+"Recreation, education and reading",Sep-23,127.5
+"Recreation, education and reading",Oct-23,128.6
+"Recreation, education and reading",Nov-23,128.1
+"Recreation, education and reading",Dec-23,123.8
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-13,138.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-13,139.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-13,139.8
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-13,140.1
+"Alcoholic beverages, tobacco products and recreational cannabis",May-13,141.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-13,140.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-13,140.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-13,140.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-13,140.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-13,141
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-13,141.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-13,141.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-14,140.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-14,142.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-14,145.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-14,145.1
+"Alcoholic beverages, tobacco products and recreational cannabis",May-14,146.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-14,146.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-14,147.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-14,148.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-14,148.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-14,149.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-14,149.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-14,149.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-15,149.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-15,150.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-15,150.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-15,151.4
+"Alcoholic beverages, tobacco products and recreational cannabis",May-15,151.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-15,152.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-15,152.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-15,152.6
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-15,152.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-15,152.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-15,153.8
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-15,153.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-16,154.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-16,155.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-16,156.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-16,156.5
+"Alcoholic beverages, tobacco products and recreational cannabis",May-16,156.8
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-16,156.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-16,157.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-16,157.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-16,157.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-16,158.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-16,158
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-16,157.8
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-17,158.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-17,159.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-17,159.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-17,160.1
+"Alcoholic beverages, tobacco products and recreational cannabis",May-17,160.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-17,161.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-17,161.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-17,162
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-17,162.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-17,162.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-17,162.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-17,162.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-18,163.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-18,164.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-18,166
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-18,167.9
+"Alcoholic beverages, tobacco products and recreational cannabis",May-18,168.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-18,168.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-18,169
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-18,169.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-18,169.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-18,169.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-18,169.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-18,169.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-19,170.6
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-19,170.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-19,170.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-19,171.3
+"Alcoholic beverages, tobacco products and recreational cannabis",May-19,171.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-19,171.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-19,171
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-19,171.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-19,170.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-19,171.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-19,172
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-19,170
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-20,171.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-20,171.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-20,171.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-20,172.1
+"Alcoholic beverages, tobacco products and recreational cannabis",May-20,172.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-20,172.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-20,172
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-20,171.8
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-20,172.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-20,172.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-20,172.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-20,171.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-21,172.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-21,173.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-21,173.6
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-21,174.4
+"Alcoholic beverages, tobacco products and recreational cannabis",May-21,175.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-21,175.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-21,175
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-21,176.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-21,175.8
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-21,176.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-21,176.6
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-21,175.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-22,178.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-22,178.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-22,179.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-22,179.8
+"Alcoholic beverages, tobacco products and recreational cannabis",May-22,180.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-22,180.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-22,181.6
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-22,182.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-22,182.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-22,183.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-22,184.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-22,184.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-23,186.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-23,187.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-23,189
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-23,189.4
+"Alcoholic beverages, tobacco products and recreational cannabis",May-23,190.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-23,190.5
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-23,191.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-23,191.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-23,192
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-23,192.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-23,193
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-23,192.1
+All-items excluding food and energy,Jan-13,115.9
+All-items excluding food and energy,Feb-13,116.9
+All-items excluding food and energy,Mar-13,117.2
+All-items excluding food and energy,Apr-13,117.2
+All-items excluding food and energy,May-13,117.3
+All-items excluding food and energy,Jun-13,117.2
+All-items excluding food and energy,Jul-13,117.1
+All-items excluding food and energy,Aug-13,117.1
+All-items excluding food and energy,Sep-13,117.5
+All-items excluding food and energy,Oct-13,117.8
+All-items excluding food and energy,Nov-13,117.5
+All-items excluding food and energy,Dec-13,117.1
+All-items excluding food and energy,Jan-14,117.3
+All-items excluding food and energy,Feb-14,118.2
+All-items excluding food and energy,Mar-14,118.6
+All-items excluding food and energy,Apr-14,118.8
+All-items excluding food and energy,May-14,119.1
+All-items excluding food and energy,Jun-14,119.1
+All-items excluding food and energy,Jul-14,118.9
+All-items excluding food and energy,Aug-14,119.4
+All-items excluding food and energy,Sep-14,119.7
+All-items excluding food and energy,Oct-14,120.2
+All-items excluding food and energy,Nov-14,119.8
+All-items excluding food and energy,Dec-14,119.3
+All-items excluding food and energy,Jan-15,119.5
+All-items excluding food and energy,Feb-15,120.3
+All-items excluding food and energy,Mar-15,121
+All-items excluding food and energy,Apr-15,121
+All-items excluding food and energy,May-15,121.3
+All-items excluding food and energy,Jun-15,121.3
+All-items excluding food and energy,Jul-15,121.3
+All-items excluding food and energy,Aug-15,121.5
+All-items excluding food and energy,Sep-15,121.9
+All-items excluding food and energy,Oct-15,122.2
+All-items excluding food and energy,Nov-15,121.9
+All-items excluding food and energy,Dec-15,121.3
+All-items excluding food and energy,Jan-16,121.6
+All-items excluding food and energy,Feb-16,122.3
+All-items excluding food and energy,Mar-16,123.1
+All-items excluding food and energy,Apr-16,123.3
+All-items excluding food and energy,May-16,123.8
+All-items excluding food and energy,Jun-16,123.9
+All-items excluding food and energy,Jul-16,123.8
+All-items excluding food and energy,Aug-16,123.8
+All-items excluding food and energy,Sep-16,124.3
+All-items excluding food and energy,Oct-16,124.5
+All-items excluding food and energy,Nov-16,124
+All-items excluding food and energy,Dec-16,123.5
+All-items excluding food and energy,Jan-17,124.3
+All-items excluding food and energy,Feb-17,124.8
+All-items excluding food and energy,Mar-17,125.2
+All-items excluding food and energy,Apr-17,125.2
+All-items excluding food and energy,May-17,125.5
+All-items excluding food and energy,Jun-17,125.6
+All-items excluding food and energy,Jul-17,125.6
+All-items excluding food and energy,Aug-17,125.6
+All-items excluding food and energy,Sep-17,125.8
+All-items excluding food and energy,Oct-17,126.2
+All-items excluding food and energy,Nov-17,126.2
+All-items excluding food and energy,Dec-17,125.6
+All-items excluding food and energy,Jan-18,126.2
+All-items excluding food and energy,Feb-18,127.1
+All-items excluding food and energy,Mar-18,127.6
+All-items excluding food and energy,Apr-18,127.5
+All-items excluding food and energy,May-18,127.6
+All-items excluding food and energy,Jun-18,127.8
+All-items excluding food and energy,Jul-18,128.5
+All-items excluding food and energy,Aug-18,128.5
+All-items excluding food and energy,Sep-18,128.1
+All-items excluding food and energy,Oct-18,128.8
+All-items excluding food and energy,Nov-18,128.4
+All-items excluding food and energy,Dec-18,128.5
+All-items excluding food and energy,Jan-19,128.6
+All-items excluding food and energy,Feb-19,129.6
+All-items excluding food and energy,Mar-19,130
+All-items excluding food and energy,Apr-19,130.1
+All-items excluding food and energy,May-19,130.7
+All-items excluding food and energy,Jun-19,130.8
+All-items excluding food and energy,Jul-19,131.3
+All-items excluding food and energy,Aug-19,131.3
+All-items excluding food and energy,Sep-19,130.8
+All-items excluding food and energy,Oct-19,131.4
+All-items excluding food and energy,Nov-19,131
+All-items excluding food and energy,Dec-19,130.8
+All-items excluding food and energy,Jan-20,131
+All-items excluding food and energy,Feb-20,132.1
+All-items excluding food and energy,Mar-20,132.2
+All-items excluding food and energy,Apr-20,131.8
+All-items excluding food and energy,May-20,131.5
+All-items excluding food and energy,Jun-20,132.1
+All-items excluding food and energy,Jul-20,131.9
+All-items excluding food and energy,Aug-20,131.9
+All-items excluding food and energy,Sep-20,131.9
+All-items excluding food and energy,Oct-20,132.5
+All-items excluding food and energy,Nov-20,132.7
+All-items excluding food and energy,Dec-20,132.2
+All-items excluding food and energy,Jan-21,132.8
+All-items excluding food and energy,Feb-21,133.1
+All-items excluding food and energy,Mar-21,133.4
+All-items excluding food and energy,Apr-21,134.2
+All-items excluding food and energy,May-21,134.6
+All-items excluding food and energy,Jun-21,135
+All-items excluding food and energy,Jul-21,135.6
+All-items excluding food and energy,Aug-21,135.9
+All-items excluding food and energy,Sep-21,136.2
+All-items excluding food and energy,Oct-21,136.8
+All-items excluding food and energy,Nov-21,136.8
+All-items excluding food and energy,Dec-21,136.7
+All-items excluding food and energy,Jan-22,137.5
+All-items excluding food and energy,Feb-22,138.3
+All-items excluding food and energy,Mar-22,139.6
+All-items excluding food and energy,Apr-22,140.4
+All-items excluding food and energy,May-22,141.6
+All-items excluding food and energy,Jun-22,142.2
+All-items excluding food and energy,Jul-22,143.1
+All-items excluding food and energy,Aug-22,143.1
+All-items excluding food and energy,Sep-22,143.6
+All-items excluding food and energy,Oct-22,144.1
+All-items excluding food and energy,Nov-22,144.2
+All-items excluding food and energy,Dec-22,144
+All-items excluding food and energy,Jan-23,144.3
+All-items excluding food and energy,Feb-23,145
+All-items excluding food and energy,Mar-23,145.9
+All-items excluding food and energy,Apr-23,146.6
+All-items excluding food and energy,May-23,147.2
+All-items excluding food and energy,Jun-23,147.2
+All-items excluding food and energy,Jul-23,148
+All-items excluding food and energy,Aug-23,148.3
+All-items excluding food and energy,Sep-23,148.2
+All-items excluding food and energy,Oct-23,149
+All-items excluding food and energy,Nov-23,149.3
+All-items excluding food and energy,Dec-23,148.9
+All-items excluding energy,Jan-13,118.7
+All-items excluding energy,Feb-13,119.7
+All-items excluding energy,Mar-13,120
+All-items excluding energy,Apr-13,119.9
+All-items excluding energy,May-13,120.1
+All-items excluding energy,Jun-13,119.9
+All-items excluding energy,Jul-13,119.9
+All-items excluding energy,Aug-13,120
+All-items excluding energy,Sep-13,120.1
+All-items excluding energy,Oct-13,120.3
+All-items excluding energy,Nov-13,120.3
+All-items excluding energy,Dec-13,119.9
+All-items excluding energy,Jan-14,120.1
+All-items excluding energy,Feb-14,121
+All-items excluding energy,Mar-14,121.5
+All-items excluding energy,Apr-14,121.6
+All-items excluding energy,May-14,122.1
+All-items excluding energy,Jun-14,122.2
+All-items excluding energy,Jul-14,122.1
+All-items excluding energy,Aug-14,122.4
+All-items excluding energy,Sep-14,122.6
+All-items excluding energy,Oct-14,122.9
+All-items excluding energy,Nov-14,122.9
+All-items excluding energy,Dec-14,122.5
+All-items excluding energy,Jan-15,122.9
+All-items excluding energy,Feb-15,123.7
+All-items excluding energy,Mar-15,124.3
+All-items excluding energy,Apr-15,124.3
+All-items excluding energy,May-15,124.8
+All-items excluding energy,Jun-15,124.8
+All-items excluding energy,Jul-15,124.8
+All-items excluding energy,Aug-15,124.9
+All-items excluding energy,Sep-15,125.2
+All-items excluding energy,Oct-15,125.5
+All-items excluding energy,Nov-15,125.4
+All-items excluding energy,Dec-15,125
+All-items excluding energy,Jan-16,125.6
+All-items excluding energy,Feb-16,126.2
+All-items excluding energy,Mar-16,126.9
+All-items excluding energy,Apr-16,126.9
+All-items excluding energy,May-16,127.2
+All-items excluding energy,Jun-16,127.3
+All-items excluding energy,Jul-16,127.2
+All-items excluding energy,Aug-16,127.1
+All-items excluding energy,Sep-16,127.2
+All-items excluding energy,Oct-16,127.3
+All-items excluding energy,Nov-16,127
+All-items excluding energy,Dec-16,126.6
+All-items excluding energy,Jan-17,127.3
+All-items excluding energy,Feb-17,127.8
+All-items excluding energy,Mar-17,128.2
+All-items excluding energy,Apr-17,128.2
+All-items excluding energy,May-17,128.6
+All-items excluding energy,Jun-17,128.8
+All-items excluding energy,Jul-17,128.9
+All-items excluding energy,Aug-17,128.8
+All-items excluding energy,Sep-17,128.8
+All-items excluding energy,Oct-17,129.1
+All-items excluding energy,Nov-17,129.2
+All-items excluding energy,Dec-17,128.7
+All-items excluding energy,Jan-18,129.5
+All-items excluding energy,Feb-18,130.3
+All-items excluding energy,Mar-18,130.6
+All-items excluding energy,Apr-18,130.6
+All-items excluding energy,May-18,130.6
+All-items excluding energy,Jun-18,130.9
+All-items excluding energy,Jul-18,131.6
+All-items excluding energy,Aug-18,131.6
+All-items excluding energy,Sep-18,131.1
+All-items excluding energy,Oct-18,131.7
+All-items excluding energy,Nov-18,131.6
+All-items excluding energy,Dec-18,131.9
+All-items excluding energy,Jan-19,132.2
+All-items excluding energy,Feb-19,133
+All-items excluding energy,Mar-19,133.5
+All-items excluding energy,Apr-19,133.5
+All-items excluding energy,May-19,134.1
+All-items excluding energy,Jun-19,134.3
+All-items excluding energy,Jul-19,134.9
+All-items excluding energy,Aug-19,134.8
+All-items excluding energy,Sep-19,134.3
+All-items excluding energy,Oct-19,134.7
+All-items excluding energy,Nov-19,134.6
+All-items excluding energy,Dec-19,134.5
+All-items excluding energy,Jan-20,134.9
+All-items excluding energy,Feb-20,135.7
+All-items excluding energy,Mar-20,135.8
+All-items excluding energy,Apr-20,135.7
+All-items excluding energy,May-20,135.5
+All-items excluding energy,Jun-20,136.1
+All-items excluding energy,Jul-20,136
+All-items excluding energy,Aug-20,135.7
+All-items excluding energy,Sep-20,135.6
+All-items excluding energy,Oct-20,136.2
+All-items excluding energy,Nov-20,136.5
+All-items excluding energy,Dec-20,136
+All-items excluding energy,Jan-21,136.7
+All-items excluding energy,Feb-21,137.1
+All-items excluding energy,Mar-21,137.3
+All-items excluding energy,Apr-21,137.9
+All-items excluding energy,May-21,138.5
+All-items excluding energy,Jun-21,138.8
+All-items excluding energy,Jul-21,139.5
+All-items excluding energy,Aug-21,139.8
+All-items excluding energy,Sep-21,140.1
+All-items excluding energy,Oct-21,140.7
+All-items excluding energy,Nov-21,141
+All-items excluding energy,Dec-21,141.1
+All-items excluding energy,Jan-22,142.1
+All-items excluding energy,Feb-22,143.1
+All-items excluding energy,Mar-22,144.4
+All-items excluding energy,Apr-22,145.3
+All-items excluding energy,May-22,146.6
+All-items excluding energy,Jun-22,147.1
+All-items excluding energy,Jul-22,148.1
+All-items excluding energy,Aug-22,148.3
+All-items excluding energy,Sep-22,148.9
+All-items excluding energy,Oct-22,149.4
+All-items excluding energy,Nov-22,149.8
+All-items excluding energy,Dec-22,149.7
+All-items excluding energy,Jan-23,150.4
+All-items excluding energy,Feb-23,151.2
+All-items excluding energy,Mar-23,152
+All-items excluding energy,Apr-23,152.7
+All-items excluding energy,May-23,153.4
+All-items excluding energy,Jun-23,153.5
+All-items excluding energy,Jul-23,154.3
+All-items excluding energy,Aug-23,154.5
+All-items excluding energy,Sep-23,154.4
+All-items excluding energy,Oct-23,155.1
+All-items excluding energy,Nov-23,155.5
+All-items excluding energy,Dec-23,155.2
+Energy,Jan-13,152.8
+Energy,Feb-13,160.1
+Energy,Mar-13,159.9
+Energy,Apr-13,158
+Energy,May-13,159.3
+Energy,Jun-13,162.1
+Energy,Jul-13,164.2
+Energy,Aug-13,163
+Energy,Sep-13,163
+Energy,Oct-13,157
+Energy,Nov-13,157.4
+Energy,Dec-13,158.9
+Energy,Jan-14,160.2
+Energy,Feb-14,162.6
+Energy,Mar-14,167.2
+Energy,Apr-14,171.2
+Energy,May-14,172.7
+Energy,Jun-14,173
+Energy,Jul-14,171.9
+Energy,Aug-14,168.3
+Energy,Sep-14,167.4
+Energy,Oct-14,163.6
+Energy,Nov-14,156.5
+Energy,Dec-14,148.7
+Energy,Jan-15,139.5
+Energy,Feb-15,145.1
+Energy,Mar-15,149.8
+Energy,Apr-15,148.1
+Energy,May-15,152.4
+Energy,Jun-15,157.5
+Energy,Jul-15,159.2
+Energy,Aug-15,156.1
+Energy,Sep-15,149.3
+Energy,Oct-15,146.6
+Energy,Nov-15,146.5
+Energy,Dec-15,143.4
+Energy,Jan-16,139
+Energy,Feb-16,134.6
+Energy,Mar-16,138.1
+Energy,Apr-16,143.4
+Energy,May-16,146.9
+Energy,Jun-16,150.6
+Energy,Jul-16,147.4
+Energy,Aug-16,147
+Energy,Sep-16,147.3
+Energy,Oct-16,150.2
+Energy,Nov-16,146.8
+Energy,Dec-16,149.1
+Energy,Jan-17,155.8
+Energy,Feb-17,151.1
+Energy,Mar-17,149.8
+Energy,Apr-17,157.2
+Energy,May-17,151.8
+Energy,Jun-17,148.7
+Energy,Jul-17,147.8
+Energy,Aug-17,150.4
+Energy,Sep-17,154.5
+Energy,Oct-17,151.7
+Energy,Nov-17,157.9
+Energy,Dec-17,155.8
+Energy,Jan-18,159.5
+Energy,Feb-18,159.1
+Energy,Mar-18,161
+Energy,Apr-18,167.1
+Energy,May-18,169.4
+Energy,Jun-18,167.2
+Energy,Jul-18,168.8
+Energy,Aug-18,167.2
+Energy,Sep-18,166.3
+Energy,Oct-18,163.7
+Energy,Nov-18,155.8
+Energy,Dec-18,150.1
+Energy,Jan-19,148.5
+Energy,Feb-19,150.1
+Energy,Mar-19,159.1
+Energy,Apr-19,168.2
+Energy,May-19,169.2
+Energy,Jun-19,160.3
+Energy,Jul-19,163.4
+Energy,Aug-19,159.3
+Energy,Sep-19,158.7
+Energy,Oct-19,158.9
+Energy,Nov-19,158.1
+Energy,Dec-19,158.3
+Energy,Jan-20,158.6
+Energy,Feb-20,156.6
+Energy,Mar-20,140.6
+Energy,Apr-20,128.3
+Energy,May-20,137
+Energy,Jun-20,146.2
+Energy,Jul-20,149.7
+Energy,Aug-20,149.3
+Energy,Sep-20,149.8
+Energy,Oct-20,149.4
+Energy,Nov-20,149.1
+Energy,Dec-20,152
+Energy,Jan-21,154.3
+Energy,Feb-21,160.4
+Energy,Mar-21,167.4
+Energy,Apr-21,170.2
+Energy,May-21,173.2
+Energy,Jun-21,174.7
+Energy,Jul-21,179.2
+Energy,Aug-21,180.2
+Energy,Sep-21,179.9
+Energy,Oct-21,187.5
+Energy,Nov-21,188.4
+Energy,Dec-21,184.2
+Energy,Jan-22,190
+Energy,Feb-22,199
+Energy,Mar-22,213.9
+Energy,Apr-22,215.1
+Energy,May-22,233.4
+Energy,Jun-22,242.5
+Energy,Jul-22,229.4
+Energy,Aug-22,214.5
+Energy,Sep-22,205.1
+Energy,Oct-22,217.9
+Energy,Nov-22,214.6
+Energy,Dec-22,197.7
+Energy,Jan-23,200.3
+Energy,Feb-23,197.9
+Energy,Mar-23,199.2
+Energy,Apr-23,206
+Energy,May-23,204.4
+Energy,Jun-23,207.2
+Energy,Jul-23,210.7
+Energy,Aug-23,218.4
+Energy,Sep-23,216.2
+Energy,Oct-23,206.2
+Energy,Nov-23,202.3
+Energy,Dec-23,197
+Goods,Jan-13,112.9
+Goods,Feb-13,115.2
+Goods,Mar-13,115.4
+Goods,Apr-13,114.9
+Goods,May-13,115
+Goods,Jun-13,114.8
+Goods,Jul-13,114.7
+Goods,Aug-13,114.7
+Goods,Sep-13,114.8
+Goods,Oct-13,114.3
+Goods,Nov-13,114.3
+Goods,Dec-13,113.8
+Goods,Jan-14,114.2
+Goods,Feb-14,115.6
+Goods,Mar-14,117
+Goods,Apr-14,117.5
+Goods,May-14,117.9
+Goods,Jun-14,117.8
+Goods,Jul-14,117.1
+Goods,Aug-14,116.7
+Goods,Sep-14,116.9
+Goods,Oct-14,116.9
+Goods,Nov-14,116.2
+Goods,Dec-14,114.6
+Goods,Jan-15,114
+Goods,Feb-15,115.3
+Goods,Mar-15,117
+Goods,Apr-15,116.7
+Goods,May-15,117.6
+Goods,Jun-15,118
+Goods,Jul-15,117.9
+Goods,Aug-15,117.5
+Goods,Sep-15,116.8
+Goods,Oct-15,117.1
+Goods,Nov-15,117.3
+Goods,Dec-15,116.3
+Goods,Jan-16,116.6
+Goods,Feb-16,116.5
+Goods,Mar-16,117.8
+Goods,Apr-16,118.6
+Goods,May-16,118.9
+Goods,Jun-16,119.1
+Goods,Jul-16,118.2
+Goods,Aug-16,117.9
+Goods,Sep-16,117.8
+Goods,Oct-16,118.3
+Goods,Nov-16,117.6
+Goods,Dec-16,117.4
+Goods,Jan-17,118.9
+Goods,Feb-17,118.7
+Goods,Mar-17,118.8
+Goods,Apr-17,119.5
+Goods,May-17,119
+Goods,Jun-17,118.5
+Goods,Jul-17,118.3
+Goods,Aug-17,118.4
+Goods,Sep-17,118.8
+Goods,Oct-17,118.8
+Goods,Nov-17,119.9
+Goods,Dec-17,119.4
+Goods,Jan-18,120.2
+Goods,Feb-18,120.7
+Goods,Mar-18,120.9
+Goods,Apr-18,122
+Goods,May-18,121.6
+Goods,Jun-18,121.7
+Goods,Jul-18,121.6
+Goods,Aug-18,121.4
+Goods,Sep-18,121.1
+Goods,Oct-18,121.4
+Goods,Nov-18,120.5
+Goods,Dec-18,119.6
+Goods,Jan-19,120
+Goods,Feb-19,121.4
+Goods,Mar-19,122.7
+Goods,Apr-19,123.7
+Goods,May-19,123.9
+Goods,Jun-19,122.8
+Goods,Jul-19,123.2
+Goods,Aug-19,122.5
+Goods,Sep-19,122.7
+Goods,Oct-19,123
+Goods,Nov-19,123.3
+Goods,Dec-19,122.6
+Goods,Jan-20,123.7
+Goods,Feb-20,123.9
+Goods,Mar-20,122
+Goods,Apr-20,120.2
+Goods,May-20,121
+Goods,Jun-20,122.6
+Goods,Jul-20,122.9
+Goods,Aug-20,122.3
+Goods,Sep-20,122.2
+Goods,Oct-20,122.9
+Goods,Nov-20,123.2
+Goods,Dec-20,122.5
+Goods,Jan-21,123.8
+Goods,Feb-21,125.2
+Goods,Mar-21,126.2
+Goods,Apr-21,126.8
+Goods,May-21,127.9
+Goods,Jun-21,128.1
+Goods,Jul-21,129.1
+Goods,Aug-21,129.4
+Goods,Sep-21,129.6
+Goods,Oct-21,130.9
+Goods,Nov-21,131.7
+Goods,Dec-21,130.8
+Goods,Jan-22,132.7
+Goods,Feb-22,134.7
+Goods,Mar-22,137.8
+Goods,Apr-22,138.3
+Goods,May-22,141.2
+Goods,Jun-22,142.4
+Goods,Jul-22,141.5
+Goods,Aug-22,140.4
+Goods,Sep-22,140.2
+Goods,Oct-22,141.9
+Goods,Nov-22,142.2
+Goods,Dec-22,139.8
+Goods,Jan-23,141.2
+Goods,Feb-23,141.8
+Goods,Mar-23,142.7
+Goods,Apr-23,143.9
+Goods,May-23,144.1
+Goods,Jun-23,144.4
+Goods,Jul-23,144.7
+Goods,Aug-23,145.6
+Goods,Sep-23,145.2
+Goods,Oct-23,144.1
+Goods,Nov-23,144.2
+Goods,Dec-23,143.1
+Services,Jan-13,129.6
+Services,Feb-13,130.1
+Services,Mar-13,130.3
+Services,Apr-13,130.3
+Services,May-13,130.9
+Services,Jun-13,131.1
+Services,Jul-13,131.5
+Services,Aug-13,131.6
+Services,Sep-13,131.7
+Services,Oct-13,131.8
+Services,Nov-13,131.8
+Services,Dec-13,131.7
+Services,Jan-14,131.9
+Services,Feb-14,132.5
+Services,Mar-14,132.5
+Services,Apr-14,132.9
+Services,May-14,133.6
+Services,Jun-14,133.9
+Services,Jul-14,134.2
+Services,Aug-14,134.7
+Services,Sep-14,134.8
+Services,Oct-14,134.9
+Services,Nov-14,134.5
+Services,Dec-14,134.5
+Services,Jan-15,134.7
+Services,Feb-15,135.5
+Services,Mar-15,135.6
+Services,Apr-15,135.6
+Services,May-15,136.2
+Services,Jun-15,136.5
+Services,Jul-15,136.8
+Services,Aug-15,137.1
+Services,Sep-15,137.4
+Services,Oct-15,137.4
+Services,Nov-15,136.9
+Services,Dec-15,136.8
+Services,Jan-16,137
+Services,Feb-16,137.7
+Services,Mar-16,138
+Services,Apr-16,138
+Services,May-16,138.8
+Services,Jun-16,139.1
+Services,Jul-16,139.7
+Services,Aug-16,139.6
+Services,Sep-16,139.9
+Services,Oct-16,139.9
+Services,Nov-16,139.6
+Services,Dec-16,139.5
+Services,Jan-17,140.2
+Services,Feb-17,140.7
+Services,Mar-17,141.1
+Services,Apr-17,141.4
+Services,May-17,142
+Services,Jun-17,142.4
+Services,Jul-17,142.6
+Services,Aug-17,142.7
+Services,Sep-17,142.8
+Services,Oct-17,143
+Services,Nov-17,142.8
+Services,Dec-17,142.3
+Services,Jan-18,143.3
+Services,Feb-18,144.3
+Services,Mar-18,144.9
+Services,Apr-18,144.6
+Services,May-18,145.3
+Services,Jun-18,145.5
+Services,Jul-18,147.1
+Services,Aug-18,147.1
+Services,Sep-18,146.3
+Services,Oct-18,146.8
+Services,Nov-18,146.6
+Services,Dec-18,147.3
+Services,Jan-19,147.1
+Services,Feb-19,147.6
+Services,Mar-19,148.1
+Services,Apr-19,148.1
+Services,May-19,149.2
+Services,Jun-19,149.6
+Services,Jul-19,150.7
+Services,Aug-19,150.9
+Services,Sep-19,149.5
+Services,Oct-19,150.1
+Services,Nov-19,149.4
+Services,Dec-19,150.1
+Services,Jan-20,149.7
+Services,Feb-20,150.8
+Services,Mar-20,151.1
+Services,Apr-20,151.1
+Services,May-20,151.1
+Services,Jun-20,151.6
+Services,Jul-20,151.5
+Services,Aug-20,151.6
+Services,Sep-20,151.5
+Services,Oct-20,151.9
+Services,Nov-20,152.1
+Services,Dec-20,152.1
+Services,Jan-21,152.5
+Services,Feb-21,152.6
+Services,Mar-21,152.9
+Services,Apr-21,153.7
+Services,May-21,154
+Services,Jun-21,154.6
+Services,Jul-21,155.4
+Services,Aug-21,155.7
+Services,Sep-21,156.1
+Services,Oct-21,156.7
+Services,Nov-21,156.5
+Services,Dec-21,157.2
+Services,Jan-22,157.7
+Services,Feb-22,158.4
+Services,Mar-22,159.4
+Services,Apr-22,160.8
+Services,May-22,162
+Services,Jun-22,162.7
+Services,Jul-22,164.2
+Services,Aug-22,164.3
+Services,Sep-22,164.8
+Services,Oct-22,165.2
+Services,Nov-22,165.5
+Services,Dec-22,166
+Services,Jan-23,166.1
+Services,Feb-23,166.8
+Services,Mar-23,167.6
+Services,Apr-23,168.5
+Services,May-23,169.4
+Services,Jun-23,169.5
+Services,Jul-23,171.2
+Services,Aug-23,171.3
+Services,Sep-23,171.3
+Services,Oct-23,172.8
+Services,Nov-23,173.1
+Services,Dec-23,173.1
